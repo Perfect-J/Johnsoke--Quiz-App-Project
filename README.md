@@ -1,22 +1,28 @@
 # Johnsoke-Project
 
-And now, we ship that MVP!
-This week is still all about execution! Hopefully you are on track and have gotten many of the riskiest aspects of your projects completed. It’s time to integrate all the pieces of your project so that you have a functioning project. The deliverable for the upcoming week will be an MVP and a self-assessment of your project.
+My Quiz App software designing
+Purpose:
+The purpose of my Quiz App is to provide an interactive platform for conducting question and answer-based quizzes. It aims to transition the traditional pen-and-paper format to a computer-based system, similar to popular standardized exams like JAMB (Joint Admissions and Matriculation Board). By digitizing the quiz process, the app seeks to enhance efficiency, accuracy, and accessibility for both quiz organizers and participants.
 
-PLD: MVP Review
-During the PLD this week, these are the objectives:
+Target Audience:
+The Quiz App is designed to cater to both primary and secondary schools. It aims to serve educators, students, and quiz organizers in these educational settings. By targeting a broad audience range, the app aims to facilitate learning, knowledge assessment, and friendly competition among students across different grade levels.
+** final project blog article, author(s) LinkedIn**
+https://www.linkedin.com/posts/johnson-ayomide-a194641b6_software-development-experience-activity-7074744075580506112-3XW1?utm_source=share&utm_medium=member_desktop
+**
+Summarize what you've accomplished with your project**
+In this diagram, the user interacts with the User Interface, which could be a web or mobile interface. The user submits their answers or interacts with quiz-related features through the interface. The data is then sent to the Backend, which handles data processing, performs the necessary calculations or validations, and interacts with the Database. The Backend communicates with the Database to store and retrieve quiz questions, user information, and scoring data.
 
-Each team meets with 3 teams they didn’t meet with last week, one at a time for 40 minutes.
-During the team-team meeting, each team presents for 20 minutes, then observes for 20 minutes.
-When a team is presenting, they share their MVP and walk through code any they’ve implemented and technical choices they have made.
-When a team is observing, they ask questions, share observations, and code review. Act more as an interviewer than a mentor.
-Some things to think about
-End-to-end
-Prioritize getting all the pieces put together and proving the entire user experience. If you are doing a web project, lets say a food delivery app, it will be important that an order can be placed, received by a delivery-person, and marked as delivered. Refer back to the user stories and ensure each of those workflows is functional.
+**Summarize the technologies you used and why you (or your team) made those choices. **
+Front-End Technologies:
+HTML, CSS, and JavaScript: These are the core front-end technologies used for building the user interface and interactivity of the Quiz App. They are widely supported and provide the necessary tools for creating a visually appealing and interactive experience for users.
+Back-End Technologies:
 
-If you’re done early
-Keep going! Add more features, tests, and polish the features you’ve completed. If you don’t have ideas for how to enhance your project, then ask your peers.
+Python:
+MySQL:
+Bootstrap:
 
-More Info
-Manual QA Review
-It is your responsibility to request a review for your Google Doc from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a staff member.
+**Contribute**
+Contributions are always welcome! Please read the contribution guidelines first.
+
+License
+JOhnson Ayo Fadogba
